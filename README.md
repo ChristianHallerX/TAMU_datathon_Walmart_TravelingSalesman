@@ -1,10 +1,10 @@
 # Passed out in Aisle 5
-## A contrubution to the 2019 TAMU Datathon (Texas A&M College Station)
+**A contrubution to the 2019 TAMU Datathon (Texas A&M College Station)**
 
 Hackers: Erik Cheng, Christian Haller, Michael Guo
 
 Description: The implemented algorithm calculates the fastest route for a customer to buy articles in a typical grocery store.
-The challenge is to avoid shelves and realize a pathfinding algorithm that traverses the image effiently
+The challenge is to avoid shelves and realize a pathfinding algorithm that traverses the image effiently.
 
 <img src="https://github.com/ChristianHallerX/TAMU_datathon_Walmart_TravelingSalesman/blob/master/Pre-Viz.png" alt="img" style="width:360px"><br>
 
